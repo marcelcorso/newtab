@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+  "name": "github.com/marcelcorso/newtab",
+  "version": "1",
+  "chrome_url_overrides" : {
+    "newtab": "newtab.html"
+  }
+}
