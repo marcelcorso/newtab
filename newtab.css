@@ -2,3 +2,7 @@ body {
   word-wrap: break-word;
   text-align: center;
 }
+
+div {
+  position: absolute;
+}
