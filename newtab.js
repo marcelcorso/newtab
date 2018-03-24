@@ -1,6 +1,6 @@
 r = Math.random;
 var parts = [
-  'aeioe', // vowels 
+  'aeiou', // vowels 
   'bcdfghklmnpqrstvwxzy' // consonants
 ];
 
